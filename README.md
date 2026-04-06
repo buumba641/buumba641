@@ -1,11 +1,19 @@
 # 👋 Hi there, I'm Buumba Chinjila
 
-I'm a **final-year Computer Science student at the University of Zambia** with **practical data science experience** gained through multiple **international competitions**. I’m strong in **data analysis**, and I enjoy solving real-world problems using machine learning and analytics—especially across **health, agriculture, climate, and finance**.
+I'm a **final-year Computer Science student at the University of Zambia** with **hands-on data science and machine learning experience** gained through multiple **international competitions**. My strength is **data analysis**—turning raw data into clear insights and measurable model improvements. I’m a **hard-working problem solver** and a **fast learner**.
 
 - 🎓 Final-year BSc Computer Science @ University of Zambia  
-- 📊 Strength: Data analysis (cleaning, EDA, visualization, insight generation)  
-- 🧠 Traits: **hard-working**, problem solver, **fast learner**, and consistent improver through iteration  
-- 🧪 Experience: Data Science, Machine Learning, Geospatial/EO, NLP, Computer Vision  
+- 📊 Strengths: Data analysis, ML experimentation, model evaluation, clear reporting  
+- 🧪 Experience across: Health, Agriculture, Finance, Climate, Geospatial/EO  
+
+---
+
+## ⭐ What I Bring (AI/ML Intern-ready)
+
+- **Data Analysis:** cleaning, EDA, visualization, and extracting insights that improve model performance  
+- **Machine Learning:** building baselines, feature engineering, model tuning, validation, and error analysis  
+- **Communication:** documenting experiments clearly and explaining results simply  
+- **Work Ethic:** consistent, hard-working, and comfortable learning new tools fast  
 
 ---
 
@@ -26,9 +34,7 @@ Some of my strongest **ranked** results:
 | **data.org Financial Health Prediction Challenge** | SMB financial well-being prediction | Beginner | — | **642 / 835** |
 | **Measuring What Matters Proposal Challenge (ITU)** | Research + technical writing | Intermediate | — | **58 / 85** |
 
-🔗 **Portfolio:** https://zindi.africa/users/Buumba/competitions/portfolio
-
-> These results show my ability to work with different data types (tabular, time-series, text, and geospatial) and continuously improve solutions through analysis, validation, and iteration.
+🔗 **Zindi portfolio:** https://zindi.africa/users/Buumba/competitions/portfolio
 
 ---
 
@@ -37,18 +43,13 @@ Some of my strongest **ranked** results:
 ### Programming
 - **Python**, **Java**, SQL, HTML
 
-### Data Analysis (Strength)
-- Data cleaning & preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Visualization and reporting  
-- Feature engineering and baseline model development  
-
-### Machine Learning / Data Science
+### Data Science / Machine Learning
+- Data cleaning & preprocessing, feature engineering  
 - Model training & evaluation (classification, regression)  
-- Experience with **NLP**, **Computer Vision**, **time-series forecasting**, and **geospatial/EO workflows**
+- Familiar with **NLP**, **Computer Vision**, **time-series forecasting**, and **geospatial/EO workflows**
 
 ### Python Stack
-- pandas, numpy, matplotlib, scikit-learn
+- NumPy, pandas, matplotlib, scikit-learn
 
 ### Java Stack
 - Spring Boot, JDBC, JavaFX, Swing
@@ -56,7 +57,6 @@ Some of my strongest **ranked** results:
 ### Analytics & Visualization
 - Excel, Tableau
 
----
 
 ## 📫 Contact
 - Email: **buumbachinjila@gmail.com**
