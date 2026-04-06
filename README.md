@@ -1,64 +1,86 @@
-# 👋 Hi there, I'm Buumba Chinjila
+# 👋 Hi, I'm Buumba Chinjila
 
-I'm a **final-year Computer Science student at the University of Zambia** with **hands-on data science and machine learning experience** gained through multiple **international competitions**. My strength is **data analysis**—turning raw data into clear insights and measurable model improvements. I’m a **hard-working problem solver** and a **fast learner**.
+**Final-year Computer Science student @ University of Zambia**
 
-- 🎓 Final-year BSc Computer Science @ University of Zambia  
-- 📊 Strengths: Data analysis, ML experimentation, model evaluation, clear reporting  
-- 🧪 Experience across: Health, Agriculture, Finance, Climate, Geospatial/EO  
+I build machine learning systems that work beyond ideal conditions — where data is messy, resources are limited, and results actually matter.
 
----
-
-## ⭐ What I Bring (AI/ML Intern-ready)
-
-- **Data Analysis:** cleaning, EDA, visualization, and extracting insights that improve model performance  
-- **Machine Learning:** building baselines, feature engineering, model tuning, validation, and error analysis  
-- **Communication:** documenting experiments clearly and explaining results simply  
-- **Work Ethic:** consistent, hard-working, and comfortable learning new tools fast  
+I’m focused on **deep learning, applied machine learning, and real-world AI systems**. What drives me is not just training models, but understanding them, improving them, and making them usable.
 
 ---
 
-## 🏆 Competition Highlights (Zindi & International Challenges)
+## 🧠 What drives me
 
-Some of my strongest **ranked** results:
-
-| Challenge | Focus | Level | Medal | Rank |
-|---|---|---:|---:|---:|
-| **GEOAI Challenge for Cropland Mapping in Dry Environments** | Cropland mapping (EO / GIS) | Intermediate | Silver | **30 / 173** |
-| **Kenya Clinical Reasoning Challenge** | Clinical reasoning (NLP / Health) | Intermediate | Bronze | **138 / 387** |
-| **agriBORA Commodity Price Forecasting Challenge** | Time-series forecasting (Agriculture) | Intermediate | Bronze | **130 / 358** |
-| **Amini Cocoa Contamination Challenge** | Disease detection on cocoa leaves (CV) | Advanced | Bronze | **93 / 209** |
-| **African Credit Scoring Challenge** | Credit default prediction | Beginner | Bronze | **217 / 899** |
-| **EY Urban Heat Island Challenge** | UHI intensity classification (Geospatial) | Beginner | Bronze | **87 / 174** |
-| **IBM SkillsBuild Hydropower Climate Optimisation Challenge** | Forecasting for micro-hydropower | Beginner | Bronze | **170 / 444** |
-| **The AI Telco Troubleshooting Challenge** | Root cause analysis / anomaly detection | Intermediate | — | **138 / 199** |
-| **data.org Financial Health Prediction Challenge** | SMB financial well-being prediction | Beginner | — | **642 / 835** |
-| **Measuring What Matters Proposal Challenge (ITU)** | Research + technical writing | Intermediate | — | **58 / 85** |
-
-🔗 **Zindi portfolio:** https://zindi.africa/users/Buumba/competitions/portfolio
+- 🔍 I don’t stop at metrics — I focus on **why models fail and how to fix them** (error analysis, ablations, better validation)
+- ⚡ I learn fast — I’ve worked across **NLP, computer vision, time-series, and geospatial ML**
+- 🛠️ I’m consistent — I stay with a problem until I get results
+- 🌍 I care about **practical AI**, especially in **low-resource environments**
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Programming & Core Tools
 
-### Programming
-- **Python**, **Java**, SQL, HTML
+| Language | Usage |
+|---|---|
+| **Python** | Machine learning, data pipelines, experimentation |
+| **Java** | Backend systems (Spring Boot, JDBC, JavaFX, Swing) |
+| **SQL** | Data extraction, preprocessing, feature building |
+| **HTML/CSS** | Simple interfaces for demos |
 
-### Data Science / Machine Learning
-- Data cleaning & preprocessing, feature engineering  
-- Model training & evaluation (classification, regression)  
-- Familiar with **NLP**, **Computer Vision**, **time-series forecasting**, and **geospatial/EO workflows**
+---
 
-### Python Stack
-- NumPy, pandas, matplotlib, scikit-learn
+## 📚 ML, Data & Systems Stack
 
-### Java Stack
-- Spring Boot, JDBC, JavaFX, Swing
+I focus on how tools are used to solve problems end-to-end:
 
-### Analytics & Visualization
-- Excel, Tableau
+- **Modeling:** scikit-learn, XGBoost, LightGBM  
+- **Deep Learning:** PyTorch / TensorFlow (actively expanding)  
+- **Data Work:** pandas, NumPy, data cleaning, feature engineering  
+- **Visualization:** matplotlib, Seaborn  
+- **NLP & CV:** Hugging Face, OpenCV  
+- **Emerging work:** RAG (LangChain), embeddings, small-model fine-tuning  
+- **Deployment direction:** FastAPI, TFLite, ONNX  
 
+---
 
-## 📫 Contact
-- Email: **buumbachinjila@gmail.com**
+## 🏆 Selected Work (Zindi Competitions)
+
+I’ve worked on ML problems across domains — each with different constraints, data types, and evaluation metrics.
+
+| Challenge | Domain | What I did |
+|---|---|---|
+| **Kenya Clinical Reasoning** | NLP / Health | Built baseline → tuned features + model selection (TF-IDF + LightGBM) |
+| **Amini Cocoa Contamination** | Computer Vision | Improved training pipeline (augmentation, EfficientNet-style backbones, interpretability checks) |
+| **GEOAI Cropland Mapping** | Geospatial | Worked with satellite features + time-series signals (e.g., NDVI-style trends) |
+| **agriBORA Price Forecasting** | Time-series | Lag features + boosting models; focused on validation and error analysis |
+| **African Credit Scoring** | Tabular | Imbalance handling + calibration; stability across folds |
+| **IBM Hydropower** | Time-series / Energy | Forecasting with environmental features; experimented with sequence models |
+
+🔗 Full portfolio: https://zindi.africa/users/Buumba/competitions/portfolio
+
+> Note: I can share detailed write-ups/notebooks for each solution structure (data prep → validation → modeling → tuning → results) as I package them into clean repos.
+
+---
+
+## 🤗 Hugging Face Work
+
+I use Hugging Face to experiment, fine-tune models, and build small demos that make models usable.
+
+- Profile: https://huggingface.co/buumba641  
+- Current focus: organizing models/demos and adding clear documentation + reproducible training
+
+---
+
+## 📌 How I work
+
+- I build with **constraints in mind** (limited data, limited compute)
+- I focus on **reproducibility and clarity**
+- I document not just results, but **decisions, trade-offs, and failures**
+- I move quickly, but I don’t skip understanding
+
+---
+
+## 📫 Let’s connect
+
+- Email: [buumbachinjila@gmail.com](mailto:buumbachinjila@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/buumba-chinjila/
-- GitHub: **@buumba641**
+- GitHub: https://github.com/buumba641
