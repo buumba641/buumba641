@@ -1,49 +1,64 @@
 # 👋 Hi there, I'm Buumba Chinjila
 
-🎓 I'm a Computer Science student at the **University of Zambia**.  
-🚀 Passionate about **Machine Learning**, **Artificial Intelligence**, and building real-world software applications.  
-💡 I enjoy learning, adapting, and applying technology to solve complex problems.
+I'm a **final-year Computer Science student at the University of Zambia** with **practical data science experience** gained through multiple **international competitions**. I’m strong in **data analysis**, and I enjoy solving real-world problems using machine learning and analytics—especially across **health, agriculture, climate, and finance**.
+
+- 🎓 Final-year BSc Computer Science @ University of Zambia  
+- 📊 Strength: Data analysis (cleaning, EDA, visualization, insight generation)  
+- 🧠 Traits: **hard-working**, problem solver, **fast learner**, and consistent improver through iteration  
+- 🧪 Experience: Data Science, Machine Learning, Geospatial/EO, NLP, Computer Vision  
 
 ---
 
-## 🏆 Top Challenge Performances
+## 🏆 Competition Highlights (Zindi & International Challenges)
 
-| Challenge | Description | Level | Domain | Prize | Rank |
-|-----------|-------------|-------|--------|-------|------|
-| **Kenya Clinical Reasoning Challenge** | Match real clinicians in rural Kenyan healthcare | Intermediate | Prediction, NLP, Health, Maternal Health | $10,000 USD | 138/387 |
-| **African Credit Scoring Challenge** | Predict likelihood of a customer defaulting on a loan | Beginner | Financial Services, Loan Defaults, Anomaly Detection, SDG8, SDG1 | $5,000 USD | 217/899 |
-| **Amini Cocoa Contamination Challenge** | Identify diseases on cocoa leaves with mobile-friendly ML model | Advanced | Computer Vision, Object Detection, Agriculture, Biology | $7,000 USD | 93/209 |
-| **IBM SkillsBuild Hydropower Climate Optimisation Challenge** | Forecast climate and operational effects on micro-hydropower plants | Beginner | Prediction, Forecast, Energy, Green Energy | $3,000 USD | 170/444 |
-| **The ARC Challenge: Africa** | Build models that can reason effectively | Intermediate | Prediction, Research | Flights to Deep Learning Indaba 2025 | 28/37 |
-| **SUA Outsmarting Outbreaks Challenge** | Predict the next outbreak of waterborne diseases in Tanzania | Beginner | Prediction, Health, Policy | $12,500 USD + AWS credits | 266/369 |
-| **Dare to Women Tech - SheCures: AI for Diabetes Prediction** | Improve women’s health using AI | Beginner | Health, AI | N/A | N/A |
+Some of my strongest **ranked** results:
 
-> These challenges demonstrate my ability to **learn, adapt, and apply technical skills** across multiple domains.
+| Challenge | Focus | Level | Medal | Rank |
+|---|---|---:|---:|---:|
+| **GEOAI Challenge for Cropland Mapping in Dry Environments** | Cropland mapping (EO / GIS) | Intermediate | Silver | **30 / 173** |
+| **Kenya Clinical Reasoning Challenge** | Clinical reasoning (NLP / Health) | Intermediate | Bronze | **138 / 387** |
+| **agriBORA Commodity Price Forecasting Challenge** | Time-series forecasting (Agriculture) | Intermediate | Bronze | **130 / 358** |
+| **Amini Cocoa Contamination Challenge** | Disease detection on cocoa leaves (CV) | Advanced | Bronze | **93 / 209** |
+| **African Credit Scoring Challenge** | Credit default prediction | Beginner | Bronze | **217 / 899** |
+| **EY Urban Heat Island Challenge** | UHI intensity classification (Geospatial) | Beginner | Bronze | **87 / 174** |
+| **IBM SkillsBuild Hydropower Climate Optimisation Challenge** | Forecasting for micro-hydropower | Beginner | Bronze | **170 / 444** |
+| **The AI Telco Troubleshooting Challenge** | Root cause analysis / anomaly detection | Intermediate | — | **138 / 199** |
+| **data.org Financial Health Prediction Challenge** | SMB financial well-being prediction | Beginner | — | **642 / 835** |
+| **Measuring What Matters Proposal Challenge (ITU)** | Research + technical writing | Intermediate | — | **58 / 85** |
+
+🔗 **Portfolio:** https://zindi.africa/users/Buumba/competitions/portfolio
+
+> These results show my ability to work with different data types (tabular, time-series, text, and geospatial) and continuously improve solutions through analysis, validation, and iteration.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
-- Java, Python, HTML, SQL
+### Programming
+- **Python**, **Java**, SQL, HTML
 
-### ☕ Java Frameworks & Tools
-- Spring Boot, JDBC, JavaFX, Swing
+### Data Analysis (Strength)
+- Data cleaning & preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Visualization and reporting  
+- Feature engineering and baseline model development  
 
-### 🐍 Python Libraries & Frameworks
+### Machine Learning / Data Science
+- Model training & evaluation (classification, regression)  
+- Experience with **NLP**, **Computer Vision**, **time-series forecasting**, and **geospatial/EO workflows**
+
+### Python Stack
 - pandas, numpy, matplotlib, scikit-learn
 
-### 🧠 Machine Learning & Data Science
-- Data preprocessing, model building, evaluation (classification, regression), computer vision, NLP
+### Java Stack
+- Spring Boot, JDBC, JavaFX, Swing
 
-### 📊 Data Analysis & Visualization Tools
+### Analytics & Visualization
 - Excel, Tableau
 
 ---
 
-## 🌱 Currently Learning
-- Advanced machine learning techniques and model optimization  
-- Backend integration using **Spring Boot** and **Django**  
-- Building dashboards and reports with business intelligence tools  
-
----
+## 📫 Contact
+- Email: **buumbachinjila@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/buumba-chinjila/
+- GitHub: **@buumba641**
