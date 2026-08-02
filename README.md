@@ -24,17 +24,18 @@ I’m working toward becoming an **AI/ML Engineer and Data Scientist** who can t
 
 This is the project I’m most proud of because it is the first time I’ve built a **complete end-to-end production-style system**, not just trained a machine learning model.
 
-What started as curiosity became a system that combines **community data collection, model training, quantization, mobile inference, deployment, and user feedback**.
+What started as curiosity became a system that combines **community data collection, comparative model evaluation, quantization, mobile inference, deployment, and user feedback**.
 
 ### What I built
-- 🎙️ Fine-tuned multilingual speech models for **Tonga, Bemba, and Nyanja**
+- 🎙️ Fine-tuned and compared multiple pretrained speech models (**WavLM, MMS, XLS-R, and Whisper**) on **Tonga, Bemba, and Nyanja**
+- 📊 Selected **Whisper** as the final model after comparative evaluation (best overall performance)
 - 🌍 A community-driven multilingual dataset and feedback pipeline
 - 🌐 A public web demo for testing and collecting corrections
 - 📱 An **Android application** capable of running quantized models fully offline (Flutter + Whisper.cpp via C FFI)
 - ⚡ Model quantization (GGML Q8_0) for low-resource devices
 - 🔄 Continuous improvement through user feedback and data collection
 
-**End-to-end stack:** Community audio → Dataset pipeline → Fine-tuning → Evaluation → GGML quantization → Flutter Android app → User feedback loop.
+**End-to-end stack:** Community audio → Dataset pipeline → Comparative fine-tuning (WavLM / MMS / XLS-R / Whisper) → Evaluation → GGML quantization → Flutter Android app → User feedback loop.
 
 What makes this project meaningful to me is not that it is perfect, but that I was able to **learn unfamiliar concepts and connect them into a working system that people can actually use**.
 
