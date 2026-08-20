@@ -10,15 +10,9 @@ I am a final-year **BSc Computer Science (Computer Systems Engineering)** studen
 
 My interests span **Artificial Intelligence and Machine Learning, software development, computer networking, cybersecurity, systems, embedded systems, IoT, edge computing, and data science**.
 
-My strongest body of publicly demonstrated work is currently in **AI/ML**, where I build machine learning pipelines, experiment with different models and datasets, participate in competitive ML, and deploy models to web and mobile platforms.
-
-I am particularly interested in **hands-on environments where theory is applied to real problems**.
-
 ---
 
 # 🚀 Highlighted Projects
-
-These projects represent some of my strongest examples of taking an idea or research problem from **concept → implementation → working system → deployment**.
 
 ---
 
@@ -123,7 +117,7 @@ https://github.com/Livvy-405/proofpass-verified2
 
 # 🏆 Highlighted Machine Learning Competitions
 
-[**Zindi World**](https://zindi.world/) is a global community for **AI builders and data scientists**, connecting them with companies, organizations, governments, and institutions through real-world AI challenges, competitive prizes, and career opportunities.
+[**Zindi World**](https://zindi.world/) is a global community for **AI builders and data scientists**.
 
 ---
 
@@ -133,8 +127,6 @@ https://github.com/Livvy-405/proofpass-verified2
 **Prize:** **$1,000 USD**  
 **Dates:** 12–20 June 2026  
 **Result:** **34 / 371 · Gold · Top ~9%**
-
-A predictive machine learning challenge focused on predicting football goals before they were scored.
 
 The challenge involved working with sports data, feature engineering, and predictive modelling.
 
@@ -151,8 +143,6 @@ https://zindi.world/competitions/world-cup-2026-goal-prediction-challenge
 **Prize:** **1,000 CHF**  
 **Dates:** 2 July – 29 September 2025  
 **Result:** **30 / 184 · Silver · Top ~17%**
-
-A geospatial machine learning challenge focused on developing an accurate and cost-effective approach to **cropland mapping in dry environments**.
 
 The challenge expanded my experience beyond conventional tabular ML into **geospatial analysis, Earth observation, computer vision, and agricultural applications**.
 
@@ -173,16 +163,7 @@ https://github.com/buumba641/242-GEOAI-Challenge-for-Cropland-Mapping-in-Dry-Env
 **Dates:** 29 November 2024 – 13 January 2025  
 **Result:** **216 / 1,020 · Top ~21%**
 
-A financial machine learning challenge focused on predicting the likelihood of customers defaulting on loans based on financial data.
-
 The project provided practical experience with:
-
-- Feature engineering
-- Customer-level aggregation
-- Classification
-- Model experimentation
-- Class imbalance
-- Evaluation and optimisation
 
 This competition also provided the foundation for my later participation in the **July Study Jam African Credit Scoring Challenge**, where I achieved **10 / 78**.
 
@@ -307,22 +288,6 @@ https://zindi.world/competitions/agribora-commodity-price-forecasting-challenge
 
 ---
 
-## 🌡️ EY Urban Heat Island Challenge
-
-**Domain:** Geospatial AI · Earth Observation · Climate · Environmental Analysis  
-**Prize:** **$3,500 USD**  
-**Dates:** 12 December 2025 – 17 January 2026  
-**Result:** **83 / 177**
-
-A geospatial machine learning challenge focused on categorising **Urban Heat Island intensity** using environmental and spatial data.
-
-The challenge strengthened my experience applying machine learning to **climate, environmental, and geospatial problems**.
-
-🔗 **Competition:**  
-https://zindi.world/competitions/urban-heat-island-challenge
-
----
-
 ## ⚡ IBM SkillsBuild Hydropower Climate Optimisation Challenge
 
 **Domain:** Forecasting · Energy · Climate · Predictive ML  
@@ -330,7 +295,7 @@ https://zindi.world/competitions/urban-heat-island-challenge
 **Dates:** 3 March – 14 April 2025  
 **Result:** **167 / 462**
 
-A team-based predictive modelling challenge focused on forecasting climate and operational effects on electricity generation from **micro-hydropower plants in off-grid communities**.
+A predictive modelling challenge focused on forecasting climate and operational effects on electricity generation from **micro-hydropower plants in off-grid communities**.
 
 I participated as part of a **team of four**, gaining experience in collaborative problem-solving around an energy and climate application.
 
@@ -516,7 +481,6 @@ This experience also influenced the development of **ECIRAP**, a business manage
 
 ## 📊 Data & Analytics
 
-- **Google Data Analytics Professional Certificate**
 - **IBM Applied Data Science**
 - **IBM Data Visualization**
 
@@ -532,7 +496,7 @@ I am particularly interested in **hands-on environments where theory is applied 
 
 I enjoy **learning new things and exploring unfamiliar areas of technology**. My academic background has exposed me to different areas of computing, and I continue building on that foundation through projects, competitions, technical courses, research, and technologies outside my immediate coursework.
 
-I am highly competitive, and machine learning competitions have become one of the ways I challenge myself against **measurable benchmarks and highly capable participants**. They push me to experiment with unfamiliar techniques, learn from specialists, improve my problem-solving ability, and continuously measure my progress.
+Machine learning competitions have become one of the ways I challenge myself against **measurable benchmarks and highly capable participants**. They push me to experiment with unfamiliar techniques, learn from specialists, improve my problem-solving ability, and continuously measure my progress.
 
 While **AI/ML is currently my strongest body of publicly demonstrated technical work**, I am not limiting myself to AI/ML roles.
 
