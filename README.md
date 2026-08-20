@@ -97,7 +97,7 @@ https://ecirap.vercel.app/
 
 ## 🔐 ProofPass — Blockchain-Based Credential Verification
 
-**Deepest Hackathon · Team of 2 · Full-stack MVP**
+**DevPark3 Hackathon · Team of 2 · Full-stack MVP**
 
 ProofPass is an **online credential verification system using blockchain technology**, developed as part of a two-person team for the DevPark3 Hackathon.
 
