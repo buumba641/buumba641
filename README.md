@@ -10,13 +10,13 @@ I am a final-year **BSc Computer Science (Computer Systems Engineering)** studen
 
 My interests span **Artificial Intelligence and Machine Learning, software development, computer networking, cybersecurity, systems, embedded systems, IoT, edge computing, and data science**.
 
-My strongest body of publicly demonstrated work is currently in **AI/ML**, where I build machine learning pipelines, experiment with different problem domains, compete against measurable benchmarks, and deploy models and applications to web and mobile platforms.
+My strongest body of publicly demonstrated work is currently in **AI/ML**, where I build machine learning pipelines, experiment with different models and datasets, participate in competitive ML, and deploy models to web and mobile platforms.
 
-I am particularly interested in **hands-on environments where theory is applied to real problems** — building, experimenting, troubleshooting, and understanding how systems work beyond the classroom.
+I am particularly interested in **hands-on environments where theory is applied to real problems**.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Highlighted Projects
 
 These projects represent some of my strongest examples of taking an idea or research problem from **concept → implementation → working system → deployment**.
 
@@ -24,11 +24,11 @@ These projects represent some of my strongest examples of taking an idea or rese
 
 ## 🎙️ ZamVoice — Zambian Local Language ASR Platform
 
-**Research-driven · Web AI · Edge AI · Speech Technology**
+**Final-Year Research · Speech AI · Web AI · Edge AI · Mobile**
 
-ZamVoice is a speech recognition platform focused on **Bemba, Nyanja, and Tonga**, developed alongside my final-year research into low-resource Automatic Speech Recognition for Zambian local languages.
+ZamVoice is a speech recognition platform focused on **Bemba, Nyanja, and Tonga**, developed as the practical implementation of my final-year research into low-resource Automatic Speech Recognition for Zambian local languages.
 
-The project explores both cloud/web inference and local mobile inference under different computing constraints.
+The project explores two implementations designed around different computing constraints.
 
 ### 🌐 Web MVP
 
@@ -48,7 +48,7 @@ The project explores both cloud/web inference and local mobile inference under d
 - Offline on-device inference
 - Designed for resource-constrained Android devices
 
-The Android implementation explores how speech AI can move from server-based inference toward **local execution on mobile hardware**.
+The Android implementation explores how speech AI can move from cloud-based inference toward **local execution on mobile hardware**.
 
 🔗 **Web MVP:**  
 https://huggingface.co/spaces/buumba641/ZamVoice
@@ -63,23 +63,23 @@ https://github.com/buumba641/Low-Resource-Multilingual-ASR-for-Zambian-Languages
 
 ## 💼 ECIRAP — Business CRM & Management Platform
 
-**Full-stack MVP · Business Software · SaaS · Deployed**
+**Full-Stack MVP · Business Software · Deployed**
 
-ECIRAP is a business management and CRM platform inspired by problems and workflows I encountered during my experience as a Direct Sales Agent.
+ECIRAP is a business management and CRM MVP inspired by problems and workflows I encountered during my experience as a **Direct Sales Agent**.
 
-The platform explores how software can bring together **customer management, sales operations, business accounts, revenue visibility, employee roles, and operational workflows**.
+The project explores how software can bring together customer management, sales operations, business accounts, revenue visibility, employee roles, and operational workflows into a single platform.
 
-The project was originally intended as a potential **Infratel Hackathon** submission, but I was unable to complete it before the deadline and therefore did not submit it to the competition.
+The project was originally conceived as a potential **Infratel Hackathon** submission, but I was unable to complete it before the deadline and therefore did not submit it.
 
-I continued developing it independently as a functional MVP and deployed application.
+I continued developing it independently into a functional deployed MVP.
 
 ### Focus Areas
 
-- Customer Relationship Management
+- Customer relationship management
 - Sales pipeline management
 - Revenue tracking
 - Business operations
-- Role-Based Access Control
+- Role-based access control
 - Employee/user management
 - Business dashboards
 - Database-backed application architecture
@@ -98,11 +98,11 @@ https://ecirap.vercel.app/
 
 ## 🔐 ProofPass — Blockchain-Based Credential Verification
 
-**DevPark3 Hackathon · Team of 2 · Full-stack MVP**
+**DevPark3 Hackathon · Team of 2 · Full-Stack MVP**
 
 ProofPass is an **online credential verification system using blockchain technology**, developed as part of a two-person team for the DevPark3 Hackathon.
 
-The project explores how blockchain can be used to create a more trustworthy and tamper-resistant approach to **digital credential verification**.
+The project explores how blockchain technology can provide a more trustworthy and tamper-resistant approach to **digital credential verification**.
 
 Our team took the project from **concept → implementation → deployment**, producing a functional MVP.
 
@@ -121,223 +121,254 @@ https://github.com/Livvy-405/proofpass-verified2
 
 ---
 
-# 🏆 Competitive Machine Learning
+# 🏆 Highlighted Machine Learning Competitions
 
-I actively participate in **Zindi competitions** to test my skills against real datasets, unfamiliar problem domains, time constraints, and measurable competitive benchmarks.
-
-Competition has become one of the ways I continuously learn because each challenge requires me to understand a new domain, experiment with different approaches, and compare my results against other participants.
-
-My competition experience spans:
-
-**Financial Services · Healthcare · Computer Vision · Geospatial AI · Agriculture · Climate · Telecommunications · Forecasting · NLP · Energy · OCR · Sports Analytics**
-
-## 🥇🥈 Medal Finishes
-
-| Competition | Domain | Prize | Dates | Result |
-|---|---|---:|---|---:|
-| 🥇 **World Cup 2026 Goal Prediction** | Sports Analytics · Predictive ML | **$1,000** | 12–20 Jun 2026 | **34/371 · Gold · Top ~9%** |
-| 🥈 **GEOAI Cropland Mapping** | Geospatial AI · Earth Observation · Agriculture | **1,000 CHF** | 2 Jul–29 Sep 2025 | **30/184 · Silver · Top ~17%** |
+[**Zindi World**](https://zindi.world/) is a global community for **AI builders and data scientists**, connecting them with companies, organizations, governments, and institutions through real-world AI challenges, competitive prizes, and career opportunities.
 
 ---
 
-## ⭐ Highlighted Competitive Work
+## 🥇 World Cup 2026 Goal Prediction Challenge
 
-### 💳 African Credit Scoring Challenge
+**Domain:** Predictive Machine Learning · Sports Analytics  
+**Prize:** **$1,000 USD**  
+**Dates:** 12–20 June 2026  
+**Result:** **34 / 371 · Gold · Top ~9%**
 
-**Financial Machine Learning · Credit Risk · Classification**
+A predictive machine learning challenge focused on predicting football goals before they were scored.
 
-**Prize:** $5,000  
-**Dates:** 29 Nov 2024 – 13 Jan 2025  
-**Result:** **216 / 1,020 · Top ~21%**
+The challenge involved working with sports data, feature engineering, and predictive modelling.
 
-My first major Zindi competition, focused on predicting the likelihood of customers defaulting on loans using financial data from African markets.
+🏅 **Gold Medal**
 
-The project involved:
-
-- Feature engineering
-- Customer-level aggregation
-- XGBoost
-- CatBoost
-- Ensemble modelling
-- Class imbalance handling
-- Threshold tuning
-- F1-score optimisation
-
-🔗 **Repository:**  
-https://github.com/buumba641/AfricanLoanDefault
+🔗 **Competition:**  
+https://zindi.world/competitions/world-cup-2026-goal-prediction-challenge
 
 ---
 
-### 🏅 July Study Jam — African Credit Scoring
+## 🥈 GEOAI Challenge for Cropland Mapping in Dry Environments
 
-**Financial Machine Learning · Credit Risk · Classification**
-
-**Prize:** 500 points  
-**Dates:** 20 Jul – 9 Aug 2026  
-**Result:** **10 / 78 · Top ~13%**
-
-A later return to the African credit-scoring problem where I applied what I had learned from previous work and competed in the Study Jam environment.
-
-This provides a useful progression from my earlier **216/1,020** result in the full African Credit Scoring Challenge to **10/78** in the Study Jam.
-
----
-
-### 🏥 Kenya Clinical Reasoning Challenge
-
-**NLP · Healthcare AI · Small Language Models · Edge AI**
-
-**Prize:** $10,000  
-**Dates:** 3 Apr – 30 Jun 2025  
-**Result:** **138 / 439**
-
-A low-resource clinical NLP challenge focused on generating clinician-style responses to clinical vignettes.
-
-The competition introduced strict deployment constraints:
-
-- ≤1B model parameters
-- <100 ms inference target
-- <2 GB RAM
-- Quantization
-- Limited training resources
-
-I experimented with a **222M-parameter T5-base model**, prompt enhancement, feature engineering, mixed precision and inference optimisation.
-
-🔗 **Repository:**  
-https://github.com/buumba641/Kenya-Clinical-Reasoning
-
----
-
-### 🌾 GEOAI Challenge for Cropland Mapping in Dry Environments
-
-**Geospatial AI · Earth Observation · Computer Vision · Agriculture**
-
-**Prize:** 1,000 CHF  
-**Dates:** 2 Jul – 29 Sep 2025  
+**Domain:** Geospatial AI · Earth Observation · Computer Vision · Agriculture  
+**Prize:** **1,000 CHF**  
+**Dates:** 2 July – 29 September 2025  
 **Result:** **30 / 184 · Silver · Top ~17%**
 
-A geospatial machine learning challenge focused on developing accurate and cost-effective methods for cropland mapping in dry environments.
+A geospatial machine learning challenge focused on developing an accurate and cost-effective approach to **cropland mapping in dry environments**.
 
-This expanded my experience beyond conventional tabular ML into **geospatial data, satellite imagery and agricultural applications**.
+The challenge expanded my experience beyond conventional tabular ML into **geospatial analysis, Earth observation, computer vision, and agricultural applications**.
+
+🏅 **Silver Medal**
+
+🔗 **Competition:**  
+https://zindi.world/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments
 
 🔗 **Repository:**  
 https://github.com/buumba641/242-GEOAI-Challenge-for-Cropland-Mapping-in-Dry-Environments-
 
 ---
 
-### 📡 AI Telco Troubleshooting Challenge
+## 💳 African Credit Scoring Challenge
 
-**Network AI · Fault Detection · Anomaly Detection · LLMs**
+**Domain:** Financial Machine Learning · Credit Risk · Classification  
+**Prize:** **$5,000 USD**  
+**Dates:** 29 November 2024 – 13 January 2025  
+**Result:** **216 / 1,020 · Top ~21%**
 
-**Prize:** **€35,000**  
-**Dates:** 28 Nov 2025 – 2 Feb 2026  
-**Result:** **136 / 251**
+A financial machine learning challenge focused on predicting the likelihood of customers defaulting on loans based on financial data.
 
-A highly specialised telecommunications AI challenge focused on detecting and explaining **unseen network failures** using machine learning and large language models.
+The project provided practical experience with:
 
-The competition exposed me to the intersection of:
+- Feature engineering
+- Customer-level aggregation
+- Classification
+- Model experimentation
+- Class imbalance
+- Evaluation and optimisation
 
-- Computer networking
-- Root-cause analysis
-- Fault detection
-- Anomaly detection
-- Edge AI
-- Large language models
+This competition also provided the foundation for my later participation in the **July Study Jam African Credit Scoring Challenge**, where I achieved **10 / 78**.
 
-🔗 **Solution Repository:**  
-Not publicly available.
-
----
-
-### 🍫 Amini Cocoa Contamination Challenge
-
-**Computer Vision · Object Detection · Agriculture · Food Safety**
-
-**Prize:** $7,000  
-**Dates:** 14 Feb – 12 May 2025  
-**Result:** **93 / 255**
-
-A computer vision challenge focused on identifying diseases and contamination on cocoa leaves using a **mobile-friendly machine learning approach**.
-
-This gave me practical exposure to computer vision and agricultural AI while working under deployment constraints.
+🔗 **Competition:**  
+https://zindi.world/competitions/african-credit-scoring-challenge
 
 🔗 **Repository:**  
-Coming soon
+https://github.com/buumba641/AfricanLoanDefault
 
 ---
 
-### 🌽 agriBORA Commodity Price Forecasting Challenge
+## 🚀 July Study Jam — African Credit Scoring
 
-**Time-Series · Forecasting · GIS · Agriculture**
+**Domain:** Financial Machine Learning · Credit Risk · Classification  
+**Prize:** **500 Zindi Points**  
+**Dates:** 20 July – 9 August 2026  
+**Result:** **10 / 78 · Top ~13%**
 
-**Prize:** €8,250  
-**Dates:** 14 Nov – 28 Dec 2025  
+A later challenge based on the African credit-scoring problem.
+
+Returning to a related problem allowed me to build on previous experience and experiment further with financial machine learning approaches.
+
+🔗 **Competition:**  
+https://zindi.world/competitions/july-study-jam-series-african-credit-scoring-challenge
+
+---
+
+## 🏥 Kenya Clinical Reasoning Challenge
+
+**Domain:** Natural Language Processing · Small Language Models · Healthcare AI  
+**Prize:** **$10,000 USD**  
+**Dates:** 3 April – 30 June 2025  
+**Result:** **138 / 439**
+
+A healthcare NLP challenge focused on developing models capable of producing useful clinical reasoning responses.
+
+The challenge introduced practical constraints around:
+
+- Small model sizes
+- Inference latency
+- Memory usage
+- Quantisation
+- Resource-constrained deployment
+
+I experimented with a lightweight language model and approaches for improving model performance under constrained computing requirements.
+
+🔗 **Competition:**  
+https://zindi.world/competitions/kenya-clinical-reasoning-challenge
+
+🔗 **Repository:**  
+https://github.com/buumba641/Kenya-Clinical-Reasoning
+
+---
+
+## 📡 AI Telco Troubleshooting Challenge
+
+**Domain:** Network AI · Fault Detection · Root-Cause Analysis · Anomaly Detection · LLMs  
+**Prize:** **€35,000 EUR**  
+**Dates:** 28 November 2025 – 2 February 2026  
+**Result:** **136 / 251**
+
+A telecommunications AI challenge focused on detecting and explaining **unseen network failures**.
+
+The challenge sits at the intersection of **machine learning, computer networking, systems, and telecommunications infrastructure**.
+
+Key areas included:
+
+- Network fault detection
+- Root-cause analysis
+- Anomaly detection
+- Network troubleshooting
+- Large language models
+- Edge AI
+
+🔗 **Competition:**  
+https://zindi.world/competitions/the-ai-telco-troubleshooting-challenge
+
+---
+
+## 🍫 Amini Cocoa Contamination Challenge
+
+**Domain:** Computer Vision · Object Detection · Agriculture · Food Safety  
+**Prize:** **$7,000 USD**  
+**Dates:** 14 February – 12 May 2025  
+**Result:** **93 / 255**
+
+A computer vision challenge focused on developing a **mobile-friendly machine learning model** for identifying diseases on cocoa leaves.
+
+The challenge provided practical exposure to:
+
+- Computer vision
+- Object detection
+- Agricultural AI
+- Mobile ML
+- Resource-constrained inference
+
+🔗 **Competition:**  
+https://zindi.world/competitions/amini-cocoa-contamination-challenge
+
+---
+
+## 🌽 agriBORA Commodity Price Forecasting Challenge
+
+**Domain:** Time-Series · Forecasting · GIS · Agriculture  
+**Prize:** **€8,250 EUR**  
+**Dates:** 14 November – 28 December 2025  
 **Result:** **127 / 361**
 
 A forecasting challenge focused on predicting weekly maize market prices in Kenya.
 
-The challenge strengthened my experience with:
+The challenge involved practical work with:
 
-- Time-series analysis
-- Feature engineering
+- Time-series data
 - Forecasting
-- Agricultural datasets
-- Economic and market signals
+- Feature engineering
+- Agricultural data
+- GIS-related information
+- Market prediction
 
-🔗 **Repository:**  
-Coming soon
+🔗 **Competition:**  
+https://zindi.world/competitions/agribora-commodity-price-forecasting-challenge
 
 ---
 
-### 🌡️ EY Urban Heat Island Challenge
+## 🌡️ EY Urban Heat Island Challenge
 
-**Geospatial AI · Earth Observation · Climate**
-
-**Prize:** $3,500  
-**Dates:** 12 Dec 2025 – 17 Jan 2026  
+**Domain:** Geospatial AI · Earth Observation · Climate · Environmental Analysis  
+**Prize:** **$3,500 USD**  
+**Dates:** 12 December 2025 – 17 January 2026  
 **Result:** **83 / 177**
 
-A geospatial challenge focused on using environmental and spatial data to categorise **Urban Heat Island intensity**.
+A geospatial machine learning challenge focused on categorising **Urban Heat Island intensity** using environmental and spatial data.
 
-The project expanded my experience in applying machine learning to climate and environmental problems.
+The challenge strengthened my experience applying machine learning to **climate, environmental, and geospatial problems**.
 
-🔗 **Repository:**  
-Coming soon
+🔗 **Competition:**  
+https://zindi.world/competitions/urban-heat-island-challenge
 
 ---
 
-### ⚡ IBM SkillsBuild Hydropower Climate Optimisation Challenge
+## ⚡ IBM SkillsBuild Hydropower Climate Optimisation Challenge
 
-**Forecasting · Energy · Climate · Prediction**
-
-**Prize:** $3,000  
-**Dates:** 3 Mar – 14 Apr 2025  
+**Domain:** Forecasting · Energy · Climate · Predictive ML  
+**Prize:** **$3,000 USD**  
+**Dates:** 3 March – 14 April 2025  
 **Result:** **167 / 462**
 
-A predictive modelling challenge focused on forecasting climate and operational effects on electricity generation from **micro-hydropower plants in off-grid communities**.
+A team-based predictive modelling challenge focused on forecasting climate and operational effects on electricity generation from **micro-hydropower plants in off-grid communities**.
 
-🔗 **Repository:**  
-Coming soon
+I participated as part of a **team of four**, gaining experience in collaborative problem-solving around an energy and climate application.
 
----
-
-### 🩺 Dare to Women Tech — SheCures AI for Diabetes Prediction
-
-**Healthcare AI · Classification · Machine Learning**
-
-**Dates:** 14–24 Apr 2025  
-**Result:** **16 / 29**
-
-A healthcare machine learning challenge exploring whether AI could help improve women's health across Africa.
-
-The project added healthcare classification to my competitive ML experience and exposed me to another real-world application domain.
-
-🔗 **Repository:**  
-Coming soon
+🔗 **Competition:**  
+https://zindi.world/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge
 
 ---
 
-🔗 **Full Zindi Profile:**  
-https://zindi.world/users/Buumba
+# 🔬 Academic Research
+
+## Low-Resource Automatic Speech Recognition for Zambian Languages
+
+### Comparative Analysis of Pretrained Models on Bemba, Tonga and Nyanja
+
+**Final-Year Research Project — University of Zambia**
+
+My research investigates the performance of pretrained speech recognition architectures under low-resource conditions across three Zambian languages.
+
+### Models
+
+- OpenAI Whisper
+- Meta MMS
+- XLS-R
+- WavLM
+
+### Evaluation
+
+- Word Error Rate (WER)
+- Character Error Rate (CER)
+- Model comparison
+- Low-resource adaptation
+- Data preprocessing
+- Speech data augmentation
+
+The research directly informed the development of **ZamVoice**, turning the academic investigation into a working software and edge-AI implementation.
+
+🔗 **Research Repository:**  
+https://github.com/buumba641/Low-Resource-Multilingual-ASR-for-Zambian-Languages
 
 ---
 
@@ -411,7 +442,7 @@ https://zindi.world/users/Buumba
 
 # 🌐 Networking, Systems & Cybersecurity
 
-My Computer Systems Engineering coursework and certifications have given me exposure to:
+My Computer Systems Engineering background and certifications provide exposure to:
 
 - Computer Networking
 - Network Troubleshooting
@@ -451,68 +482,13 @@ https://github.com/buumba641/Hardware-and-Implementation-Labs
 
 ---
 
-# 🔬 Academic Research
-
-## Low-Resource Automatic Speech Recognition for Zambian Languages
-
-### Comparative Analysis of Pretrained Models on Bemba, Tonga and Nyanja
-
-**Final-Year Research Project — University of Zambia**
-
-My research investigates the performance of pretrained speech recognition architectures under low-resource conditions across three Zambian languages.
-
-### Models
-
-- OpenAI Whisper
-- Meta MMS
-- XLS-R
-- WavLM
-
-### Evaluation
-
-- Word Error Rate (WER)
-- Character Error Rate (CER)
-- Model comparison
-- Low-resource adaptation
-- Data preprocessing
-- Speech data augmentation
-
-The research directly informed the development of **ZamVoice**, turning the academic investigation into a working software and edge-AI implementation.
-
-🔗 **Research Repository:**  
-https://github.com/buumba641/Low-Resource-Multilingual-ASR-for-Zambian-Languages
-
----
-
-# 🔌 Hardware & Systems Coursework
-
-## CSC 4130 — Hardware Design and Implementation
-
-Practical coursework covering hardware/software interaction and embedded systems.
-
-### Areas
-
-- Arduino programming
-- ESP32 development
-- Sensors
-- Microcontrollers
-- C/C++
-- Hardware interfacing
-- Embedded programming
-- Hardware troubleshooting
-
-🔗 **Repository:**  
-https://github.com/buumba641/Hardware-and-Implementation-Labs
-
----
-
 # 💼 Professional Experience
 
 ## Direct Sales Agent — Shona Prince Technologies
 
 **September 2025 – February 2026 · Lusaka, Zambia**
 
-Worked in the sales, onboarding and customer support of **Starlink satellite internet systems**.
+Worked in sales, onboarding, and customer support for **Starlink satellite internet systems**.
 
 ### Responsibilities
 
@@ -524,7 +500,7 @@ Worked in the sales, onboarding and customer support of **Starlink satellite int
 - Communicated technical concepts clearly to non-technical customers.
 - Gained practical exposure to telecommunications and internet connectivity.
 
-This experience also influenced the development of **ECIRAP**, a business management and CRM MVP inspired by real workflows encountered during my time in sales.
+This experience also influenced the development of **ECIRAP**, a business management and CRM MVP inspired by real workflows and problems encountered during my time in sales.
 
 ---
 
@@ -554,11 +530,13 @@ This experience also influenced the development of **ECIRAP**, a business manage
 
 I am particularly interested in **hands-on environments where theory is applied to real problems**. I learn best by building, experimenting, troubleshooting, and seeing concepts work outside the classroom.
 
-I enjoy **learning new things and exploring unfamiliar areas of technology**. My academic background has exposed me to different areas of computing, and I actively build on that foundation through projects, competitions, technical courses, research, and technologies outside my immediate coursework.
+I enjoy **learning new things and exploring unfamiliar areas of technology**. My academic background has exposed me to different areas of computing, and I continue building on that foundation through projects, competitions, technical courses, research, and technologies outside my immediate coursework.
 
-I am also highly competitive. Machine learning competitions have become one of the ways I challenge myself against measurable benchmarks and highly capable participants. They push me to experiment with unfamiliar techniques, learn from specialists, improve my problem-solving ability, and continuously measure my progress.
+I am highly competitive, and machine learning competitions have become one of the ways I challenge myself against **measurable benchmarks and highly capable participants**. They push me to experiment with unfamiliar techniques, learn from specialists, improve my problem-solving ability, and continuously measure my progress.
 
-While **AI/ML is currently my strongest body of publicly demonstrated technical work**, I am not limiting myself to AI/ML roles. I am open to **entry-level opportunities across the broader technology and computing space** where I can apply my existing skills, learn quickly, and contribute to real systems.
+While **AI/ML is currently my strongest body of publicly demonstrated technical work**, I am not limiting myself to AI/ML roles.
+
+I am open to **entry-level opportunities across the broader technology and computing space** where I can apply my existing skills, learn quickly, work hands-on, and contribute to real systems.
 
 ---
 
@@ -617,7 +595,7 @@ I am open to:
 </a>
 
 <a href="https://zindi.world/users/Buumba">
-  <img src="https://img.shields.io/badge/Zindi-Competitive%20ML-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zindi%20World-Competitive%20ML-blue?style=for-the-badge"/>
 </a>
 
 <a href="mailto:buumbachinjila@gmail.com">
