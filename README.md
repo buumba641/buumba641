@@ -10,9 +10,9 @@ I am a final-year **BSc Computer Science (Computer Systems Engineering)** studen
 
 My interests span **Artificial Intelligence and Machine Learning, software development, computer networking, cybersecurity, systems, embedded systems, IoT, edge computing, and data science**.
 
-My strongest body of publicly demonstrated work is currently in **AI/ML**, where I have built practical systems, conducted low-resource speech research, deployed models to web and mobile platforms, and competed in machine learning challenges against measurable benchmarks.
+My strongest body of publicly demonstrated work is currently in **AI/ML**, where I build end-to-end machine learning pipeline and compete in machine learning challenges against measurable benchmarks.
+deployed models to web and mobile platforms.
 
-I am particularly interested in **hands-on environments where theory is applied to real problems** — building, experimenting, troubleshooting, and turning ideas into working systems.
 
 ---
 
@@ -24,10 +24,9 @@ These projects represent some of my strongest examples of taking an idea or rese
 
 ## 🎙️ ZamVoice — Zambian Local Language ASR Platform
 
-**Research-driven MVP · Web AI · Edge AI · Speech Technology**
+**Research-driven · Web AI · Edge AI · Speech Technology**
 
-ZamVoice is a speech recognition platform focused on **Bemba, Nyanja, and Tonga**, developed as the practical implementation of my final-year research into low-resource Automatic Speech Recognition.
-
+ZamVoice is a speech recognition platform focused on **Bemba, Nyanja, and Tonga**, developed as the practical implementation of my final-year research into low-resource Automatic Speech Recognition for Zambian local languages.
 The platform has two implementations designed around different computing constraints.
 
 ### 🌐 Web MVP
@@ -100,7 +99,7 @@ https://ecirap.vercel.app/
 
 **Deepest Hackathon · Team of 2 · Full-stack MVP**
 
-ProofPass is an **online credential verification system using blockchain technology**, developed as part of a two-person team for the Deepest Hackathon.
+ProofPass is an **online credential verification system using blockchain technology**, developed as part of a two-person team for the DevPark3 Hackathon.
 
 The project explores how blockchain can be used to create a more trustworthy and tamper-resistant approach to **digital credential verification**.
 
@@ -154,7 +153,6 @@ My competition experience spans:
 | **SheCures: AI for Diabetes Prediction** | Healthcare AI · Classification | — | 14–24 Apr 2025 | **16/29** |
 | **University Hackathon: Financial Inclusion** | Financial ML · Mobile Money | 500 pts | 2–9 Aug 2026 | **24/32** |
 
-> **Note:** The AI Telco Troubleshooting Challenge focused on detecting and explaining unseen network failures using AI. My participation demonstrates exposure to the intersection of **machine learning and networking**, although I do not present a completed solution repository for that challenge.
 
 🔗 **Full Zindi Portfolio:**  
 https://zindi.world/users/Buumba
