@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Final-year BSc Computer Science student at the University of Zambia (UNZA), with hands-on experience building AI, software, IoT, networking and systems projects.
+  Final-year BSc Computer Science student at the University of Zambia (UNZA)
 </p>
 
 <p align="center">
@@ -21,128 +21,275 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am interested in building practical technology that connects software, data and computing systems.
+I am a final-year Computer Science student majoring in **Computer Systems Engineering** at the University of Zambia.
 
-My strongest publicly demonstrated work is in **AI/ML and speech technology**, but my broader background covers:
+My technical interests span:
 
 * Artificial Intelligence & Machine Learning
-* Data Science
+* Data Science & Analytics
 * Software Development
 * Computer Systems
 * Networking & Infrastructure
 * Cybersecurity
 * Embedded Systems & IoT
+* Cloud Computing
 * Edge AI & On-device Computing
-* Cloud Technologies
 
-I learn primarily by **building, experimenting, competing, researching and deploying working systems**.
+My strongest publicly demonstrated work is currently in **AI/ML, speech technology and data science**, but my broader systems background allows me to work across software, hardware, networking and infrastructure.
+
+I learn primarily by **building, experimenting, researching, competing and deploying working systems**.
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 ## 🎙️ ZamVoice
 
-**Low-resource speech AI for Bemba, Nyanja and Tonga**
+### Low-Resource Speech AI for Zambian Languages
 
-ZamVoice is the practical implementation of my final-year research into low-resource Automatic Speech Recognition for Zambian languages.
+ZamVoice is a speech technology project focused on **Bemba, Nyanja and Tonga**, developed alongside my final-year research on low-resource Automatic Speech Recognition for Zambian languages.
 
-The project combines speech recognition, translation and speech synthesis and explores both cloud and edge deployment.
+The project combines **speech recognition, translation and speech synthesis** and explores both cloud-based and on-device AI.
 
-**Web MVP**
+### Research
+
+* Whisper
+* XLS-R
+* Meta MMS
+* WavLM
+* Fine-tuning pretrained speech models
+* Speech data preparation and cleaning
+* WER and CER evaluation
+* Error analysis
+* Data augmentation
+* Low-resource model adaptation
+
+### Web MVP
 
 * Whisper Medium
 * Hugging Face Spaces
 * Gemini API
 * Kokoro TTS
-* Audio/transcription collection
+* Speech transcription
+* English translation
+* Audio and transcription collection
+* Native-speaker correction workflow
 
-**Android Edge AI**
+### Android Edge AI
 
 * Whisper Base
 * int8 quantization
 * whisper.cpp
-* Flutter + C/C++ FFI
+* Flutter
+* C/C++ FFI
 * Offline on-device inference
 
-**Research:** Whisper, XLS-R, MMS and WavLM evaluated using WER and CER.
+The Android implementation explores how speech AI can move from cloud inference toward **local execution on resource-constrained mobile hardware**.
 
-🔗 [Web MVP](https://huggingface.co/spaces/buumba641/ZamVoice)
-🔗 [Android App Repository](https://github.com/buumba641/ZamVoice)
-🔗 [Research Repository](https://github.com/buumba641/Low-Resource-Multilingual-ASR-for-Zambian-Languages)
+🔬 **Research Repository**
+https://github.com/buumba641/Low-Resource-Multilingual-ASR-for-Zambian-Languages-Nyanja-Tonga-and-Bemba
 
----
+📱 **Android Repository**
+https://github.com/buumba641/ZamVoice
 
-## 💼 ECIRAP
-
-**Business CRM & Management Platform**
-
-A full-stack business management and CRM MVP inspired by real workflows encountered during my experience as a Direct Sales Agent.
-
-**Features**
-
-* Customer management
-* Sales tracking
-* Revenue dashboards
-* Employee management
-* Role-based access
-* Business operations
-
-**Stack:** Next.js · Supabase · PostgreSQL · Tailwind CSS · Recharts
-
-🔗 [Repository](https://github.com/buumba641/ECIRAP)
-🚀 [Live Application](https://ecirap.vercel.app/)
-
----
-
-## 🔐 ProofPass
-
-**Blockchain-Based Credential Verification**
-
-A two-person hackathon project exploring blockchain-based digital credential verification and tamper-resistant records.
-
-**Stack:** Rust · Solana · Web Development
-
-🔗 [Repository](https://github.com/Livvy-405/proofpass-verified2)
+🌐 **Web MVP**
+https://huggingface.co/spaces/buumba641/ZamVoice
 
 ---
 
 ## 🐔 Smart Chicken Management System
 
-**IoT · AI · Cloud · Web Dashboard**
+### IoT · AI · Cloud · Web
 
-An IoT-based poultry management system combining sensors, cloud infrastructure, a web dashboard and AI-assisted diagnosis.
+An IoT-based poultry management system combining **embedded hardware, sensors, cloud infrastructure, a web dashboard and AI-assisted diagnosis**.
 
-**Architecture**
+### Architecture
 
-`Arduino → ESP8266 → Firebase/Firestore → React Dashboard`
+`Arduino → ESP8266 → Firebase / Firestore → React Dashboard`
 
-**Technologies**
+### Technologies
 
 * Arduino
 * ESP8266
 * Sensors
-* Firebase / Firestore
+* Firebase
+* Firestore
 * React
 * Gemini API
-* RAG
+* Retrieval-Augmented Generation
 * AI-assisted poultry diagnosis
 
-🔗 [Project Repository](https://github.com/buumba641/firebase-smart-chicken-management)
+The project demonstrates integration across **embedded systems, IoT, cloud services, web development and AI**.
+
+🔗 **Repository**
+https://github.com/buumba641/smart-chicken-management
 
 ---
 
-# 🏆 Machine Learning & Data Science
+## 💼 ECIRAP
 
-I regularly participate in data science and machine learning challenges based on real datasets and practical problems.
+### Business CRM & Management Platform
 
-These challenges have exposed me to different domains, datasets, algorithms and evaluation methods.
+A full-stack CRM and business management MVP inspired by real workflows encountered during my experience as a Direct Sales Agent.
 
-| Challenge                                 |      Result | Area                 |
+### Focus Areas
+
+* Customer management
+* Sales management
+* Revenue tracking
+* Employee management
+* Role-based access
+* Business dashboards
+* Operational workflows
+
+### Stack
+
+`Next.js` · `Supabase` · `PostgreSQL` · `Tailwind CSS` · `Recharts`
+
+🔗 **Repository**
+https://github.com/buumba641/ECIRAP
+
+🚀 **Live Application**
+https://ecirap.vercel.app/
+
+---
+
+## 🔐 ProofPass
+
+### Blockchain-Based Credential Verification
+
+A two-person hackathon project exploring blockchain-based digital credential verification and tamper-resistant records.
+
+The project was developed from concept through implementation into a functional MVP.
+
+### Stack
+
+`Rust` · `Solana` · `Web Development`
+
+🔗 **Repository**
+https://github.com/Livvy-405/proofpass-verified2
+
+---
+
+# 🤖 Machine Learning & Data Science
+
+I participate in machine learning challenges on **Zindi and Kaggle**, working with real datasets and practical problems across different domains.
+
+These challenges have helped me develop experience with unfamiliar datasets, feature engineering, model selection, evaluation, experimentation and iterative improvement.
+
+My work has covered:
+
+`Tabular ML` · `Computer Vision` · `NLP` · `Time Series` · `Forecasting` · `Geospatial AI` · `Healthcare` · `Agriculture` · `Financial ML` · `Network AI`
+
+---
+
+## 🥇 World Cup 2026 Goal Prediction
+
+**34 / 369 · Gold · Top 10%**
+
+Predictive modelling project for the Zindi FIFA World Cup 2026 challenge.
+
+The solution explored:
+
+* Time-aware feature engineering
+* Random Forest
+* Multi-task neural networks
+* Poisson modelling
+* Monte Carlo tournament simulation
+* Predictive modelling of team goals and tournament progression
+
+`Python` · `Pandas` · `Scikit-learn` · `PyTorch` · `Statistical Modelling`
+
+🔗 **Repository**
+https://github.com/buumba641/2026-World-Cup-Prediction-challenge-Solution
+
+🔗 **Competition**
+https://zindi.world/competitions/world-cup-2026-goal-prediction-challenge
+
+---
+
+## 🥇 African Credit Scoring — July Study Jam
+
+**10 / 78 · Top 13%**
+
+Financial machine learning project focused on loan default prediction.
+
+The solution explored:
+
+* XGBoost
+* LightGBM
+* CatBoost
+* Feature engineering
+* BorderlineSMOTE
+* Cross-validation
+* Macroeconomic features
+* Credit scoring
+
+`Python` · `XGBoost` · `LightGBM` · `CatBoost` · `Scikit-learn`
+
+🔗 **Repository**
+https://github.com/buumba641/July-Study-Jam-Series-African-Credit-Scoring
+
+🔗 **Competition**
+https://zindi.world/competitions/july-study-jam-series-african-credit-scoring-challenge
+
+---
+
+## 🥈 GEOAI Cropland Mapping
+
+**30 / 184 · Silver · Top 17%**
+
+A geospatial AI project focused on **cropland mapping in dry environments**.
+
+The challenge expanded my experience beyond conventional tabular machine learning into:
+
+* Geospatial analysis
+* Earth observation
+* Remote sensing
+* Computer vision
+* Agricultural AI
+
+`Python` · `Computer Vision` · `Geospatial AI` · `Remote Sensing`
+
+🔗 **Repository**
+https://github.com/buumba641/242-GEOAI-Challenge-for-Cropland-Mapping-in-Dry-Environments-
+
+🔗 **Competition**
+https://zindi.world/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments
+
+---
+
+## 🏥 Kenya Clinical Reasoning
+
+**138 / 439**
+
+A healthcare NLP challenge exploring approaches for developing useful clinical reasoning systems under resource constraints.
+
+Areas explored included:
+
+* Natural Language Processing
+* Small language models
+* Model efficiency
+* Quantization
+* Resource-constrained inference
+
+`Python` · `NLP` · `Transformers` · `Small Language Models`
+
+🔗 **Repository**
+https://github.com/buumba641/Kenya-Clinical-Reasoning
+
+🔗 **Competition**
+https://zindi.world/competitions/kenya-clinical-reasoning-challenge
+
+---
+
+# 📊 Selected Competition Results
+
+| Challenge                                 |      Result | Domain               |
 | ----------------------------------------- | ----------: | -------------------- |
-| 🥇 World Cup Goal Prediction              |    34 / 371 | Predictive ML        |
+| 🥇 World Cup Goal Prediction              |    34 / 369 | Predictive ML        |
 | 🥈 GEOAI Cropland Mapping                 |    30 / 184 | Geospatial AI        |
 | 🥇 July Study Jam: African Credit Scoring |     10 / 78 | Financial ML         |
 | African Credit Scoring                    | 216 / 1,020 | Classification       |
@@ -152,155 +299,201 @@ These challenges have exposed me to different domains, datasets, algorithms and 
 | agriBORA Forecasting                      |   127 / 361 | Time Series          |
 | IBM Hydropower Optimisation               |   167 / 462 | Energy / Forecasting |
 
-### 🥇 Selected Achievements
-
-**World Cup 2026 Goal Prediction Challenge**
-
-Gold · 34/371 · Top ~9%
-
-🔗 [Competition](https://zindi.world/competitions/world-cup-2026-goal-prediction-challenge)
-
-**GEOAI Cropland Mapping Challenge**
-
-Silver · 30/184 · Top ~17%
-
-🔗 [Competition](https://zindi.world/competitions/geoai-challenge-for-cropland-mapping-in-dry-environments)
-🔗 [Repository](https://github.com/buumba641/242-GEOAI-Challenge-for-Cropland-Mapping-in-Dry-Environments-)
-
-**African Credit Scoring**
-
-216/1,020 · Top ~21%
-
-🔗 [Competition](https://zindi.world/competitions/african-credit-scoring-challenge)
-🔗 [Repository](https://github.com/buumba641/AfricanLoanDefault)
-
-**July Study Jam: African Credit Scoring**
-
-10/78 · Top ~13%
-
-🔗 [Competition](https://zindi.world/competitions/july-study-jam-series-african-credit-scoring-challenge)
-
-🔗 [Zindi Profile](https://zindi.world/users/Buumba)
+🔗 **Zindi Profile**
+https://zindi.world/users/Buumba
 
 ---
 
-# 🔬 Research
+# 🔬 Academic Research
 
 ## Low-Resource Automatic Speech Recognition for Zambian Languages
 
+### Comparative Analysis of Pretrained Models on Bemba, Tonga and Nyanja
+
 **Final-Year Research Project · University of Zambia**
 
-Comparative evaluation of pretrained speech recognition models for:
+My research investigates the adaptation and evaluation of pretrained speech recognition models under low-resource conditions across three Zambian languages.
 
-**Bemba · Nyanja · Tonga**
+### Languages
+
+`Bemba` · `Nyanja` · `Tonga`
 
 ### Models
 
-`Whisper` · `XLS-R` · `MMS` · `WavLM`
+`Whisper` · `XLS-R` · `Meta MMS` · `WavLM`
+
+### Research Areas
+
+* Speech data preparation
+* Data cleaning
+* Model fine-tuning
+* Low-resource adaptation
+* Speech data augmentation
+* Model comparison
+* Error analysis
 
 ### Evaluation
 
-`WER` · `CER` · Error Analysis · Data Augmentation · Model Comparison
+`Word Error Rate (WER)` · `Character Error Rate (CER)`
 
-The research investigates how pretrained speech models can be adapted to low-resource Zambian languages and directly informs the development of ZamVoice.
+The research directly informed the development of **ZamVoice**, turning the academic investigation into a working speech AI application and edge-AI implementation.
 
-🔗 [Research Repository](https://github.com/buumba641/Low-Resource-Multilingual-ASR-for-Zambian-Languages)
+🔗 **Research Repository**
+https://github.com/buumba641/Low-Resource-Multilingual-ASR-for-Zambian-Languages-Nyanja-Tonga-and-Bemba
 
 ---
 
 # 🛠️ Technical Skills
 
-### AI / Machine Learning
+## Programming
 
-`Python` `PyTorch` `Scikit-Learn` `Hugging Face` `Transformers` `Pandas` `NumPy` `Matplotlib`
+`Python` · `Java` · `C` · `C++` · `Dart` · `SQL` · `Bash`
 
-Machine Learning · Deep Learning · NLP · ASR · Computer Vision · Time Series · Forecasting · Feature Engineering · Model Evaluation · Model Quantization
+## AI & Machine Learning
 
-### Speech & Generative AI
+`PyTorch` · `Scikit-learn` · `Hugging Face Transformers` · `Hugging Face Datasets`
 
-`Whisper` `XLS-R` `MMS` `WavLM` `Gemini API` `Kokoro` `RAG`
+`Pandas` · `NumPy` · `Matplotlib` · `JiWER` · `Evaluate`
 
-### Software Development
+Machine Learning · Deep Learning · NLP · ASR · Computer Vision · Time Series · Forecasting · Feature Engineering · Model Evaluation · Model Quantization · Low-Resource AI
 
-`Python` `Java` `C` `C++` `Dart` `SQL` `Bash`
+## Speech & Generative AI
 
-`Next.js` `React` `Flutter` `Node.js` `Supabase` `PostgreSQL` `REST APIs`
+`Whisper` · `XLS-R` · `MMS` · `WavLM` · `Gemini API` · `Kokoro` · `RAG`
 
-### Systems & Infrastructure
+## Software Development
 
-`Linux` `Networking` `Cisco` `Cloud Computing` `System Administration` `Cybersecurity` `Edge Computing`
+`React` · `Next.js` · `Flutter` · `Node.js` · `Supabase` · `PostgreSQL` · `REST APIs` · `Tailwind CSS`
 
-### Embedded & IoT
+## Mobile & Edge AI
 
-`Arduino` `ESP8266` `ESP32` `Sensors` `C/C++` `Microcontrollers` `Hardware/Software Integration`
+`Flutter` · `Dart` · `Android` · `C/C++ FFI` · `whisper.cpp` · `int8 Quantization` · `On-device AI` · `Offline Inference`
+
+## Systems & Infrastructure
+
+`Linux` · `Computer Networking` · `Cisco` · `Cloud Computing` · `System Administration` · `Cybersecurity` · `Edge Computing`
+
+## Embedded & IoT
+
+`Arduino` · `ESP8266` · `ESP32` · `Sensors` · `Microcontrollers` · `C/C++` · `Hardware/Software Integration`
 
 ---
 
-# 📜 Certifications
+# 🌐 Networking, Systems & Cybersecurity
 
-**Networking & Cybersecurity**
+My Computer Systems Engineering background has given me exposure to:
 
-CCNA · Cisco CyberOps Associate · Cisco Ethical Hacker · Linux Essentials · IT Essentials
+* Computer networking
+* Network troubleshooting
+* Linux system administration
+* Cisco networking
+* Cybersecurity fundamentals
+* Cloud computing
+* IT infrastructure
+* Systems administration
+* Hardware and software integration
 
-**Data & Analytics**
+### Certifications
 
-IBM Applied Data Science · IBM Data Visualization
+`CCNA` · `Cisco CyberOps Associate` · `Cisco Ethical Hacker` · `Linux Essentials` · `IT Essentials` · `AWS Cloud Foundations`
 
-**Cloud**
+---
 
-AWS Academy Graduate — Cloud Foundations
+# 🔌 Embedded Systems & IoT
+
+Embedded systems form part of my Computer Systems Engineering coursework and practical projects.
+
+My experience includes:
+
+* Arduino
+* ESP8266
+* ESP32
+* Sensors
+* Microcontrollers
+* Sensor interfacing
+* Embedded C/C++
+* Hardware/software integration
+* IoT systems
+* Cloud-connected devices
+
+🔗 **Hardware & Implementation Labs**
+https://github.com/buumba641/Hardware-and-Implementation-Labs
 
 ---
 
 # 💼 Professional Experience
 
-### Direct Sales Agent — Shona Prince Technologies
+## Direct Sales Agent — Shona Prince Technologies
 
 **September 2025 – February 2026 · Lusaka, Zambia**
 
-Worked in sales, customer onboarding and support for Starlink satellite internet systems.
+Worked in sales, customer onboarding and support for **Starlink satellite internet systems**.
 
-Experience included:
+### Experience
 
 * Customer engagement and sales
+* Customer onboarding
 * Technical product explanation
-* Customer onboarding and support
+* Customer support
 * Sales and customer record management
 * Communicating technical concepts to non-technical customers
+* Exposure to telecommunications and internet connectivity
 
-This experience also influenced the development of **ECIRAP**, a CRM and business management MVP.
+This experience also influenced the development of **ECIRAP**, a CRM and business management MVP based on real workflows and problems encountered during sales operations.
+
+---
+
+# 📜 Certifications
+
+### Networking & Cybersecurity
+
+* Cisco Certified Network Associate (CCNA)
+* Cisco CyberOps Associate
+* Cisco Ethical Hacker
+* Linux Essentials
+* IT Essentials
+
+### Data & Analytics
+
+* IBM Applied Data Science
+* IBM Data Visualization
+
+### Cloud
+
+* AWS Academy Graduate — Cloud Foundations
 
 ---
 
 # 🎓 Education
 
-### University of Zambia
+## University of Zambia
 
 **BSc Computer Science — Computer Systems Engineering**
 
-Relevant areas include:
+Relevant coursework includes:
 
-`Data Mining` · `Advanced Databases` · `Cloud Computing` · `Distributed Systems` · `Computer Hardware & Implementation`
-
----
-
-# 📌 Selected Repositories
-
-| Project                           | Repository                                                                                                    |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 🎙️ ZamVoice Android              | [View Repository](https://github.com/buumba641/ZamVoice)                                                      |
-| 🔬 ZamVoice Research              | [View Repository](https://github.com/buumba641/Low-Resource-Multilingual-ASR-for-Zambian-Languages)           |
-| 💼 ECIRAP                         | [View Repository](https://github.com/buumba641/ECIRAP)                                                        |
-| 🔐 ProofPass                      | [View Repository](https://github.com/Livvy-405/proofpass-verified2)                                           |
-| 🐔 Smart Chicken System           | [View Repository](https://github.com/buumba641/firebase-smart-chicken-management)                             |
-| 🌍 GEOAI Cropland Mapping         | [View Repository](https://github.com/buumba641/242-GEOAI-Challenge-for-Cropland-Mapping-in-Dry-Environments-) |
-| 💳 African Credit Scoring         | [View Repository](https://github.com/buumba641/AfricanLoanDefault)                                            |
-| 🏥 Kenya Clinical Reasoning       | [View Repository](https://github.com/buumba641/Kenya-Clinical-Reasoning)                                      |
-| 🔌 Hardware & Implementation Labs | [View Repository](https://github.com/buumba641/Hardware-and-Implementation-Labs)                              |
+`Data Mining` · `Advanced Database Management Systems` · `Cloud Computing` · `Distributed Systems` · `Computer Hardware & Implementation`
 
 ---
 
-# 📊 GitHub
+# 📂 Selected Repositories
+
+| Project                     | Technologies                              | Repository                                                                                                      |
+| --------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 🎙️ ZamVoice Research       | PyTorch · Transformers · ASR              | [View](https://github.com/buumba641/Low-Resource-Multilingual-ASR-for-Zambian-Languages-Nyanja-Tonga-and-Bemba) |
+| 📱 ZamVoice Android         | Flutter · C/C++ · whisper.cpp             | [View](https://github.com/buumba641/ZamVoice)                                                                   |
+| 🐔 Smart Chicken            | Arduino · ESP8266 · Firebase · React · AI | [View](https://github.com/buumba641/smart-chicken-management)                                                   |
+| 💼 ECIRAP                   | Next.js · Supabase · PostgreSQL           | [View](https://github.com/buumba641/ECIRAP)                                                                     |
+| 🔐 ProofPass                | Rust · Solana                             | [View](https://github.com/Livvy-405/proofpass-verified2)                                                        |
+| 🥇 World Cup Prediction     | PyTorch · Scikit-learn                    | [View](https://github.com/buumba641/2026-World-Cup-Prediction-challenge-Solution)                               |
+| 🥇 African Credit Scoring   | XGBoost · LightGBM · CatBoost             | [View](https://github.com/buumba641/July-Study-Jam-Series-African-Credit-Scoring)                               |
+| 🥈 GEOAI Cropland Mapping   | Computer Vision · Geospatial AI           | [View](https://github.com/buumba641/242-GEOAI-Challenge-for-Cropland-Mapping-in-Dry-Environments-)              |
+| 🏥 Kenya Clinical Reasoning | NLP · Transformers                        | [View](https://github.com/buumba641/Kenya-Clinical-Reasoning)                                                   |
+| 🔌 Hardware Labs            | C/C++ · Arduino · Embedded                | [View](https://github.com/buumba641/Hardware-and-Implementation-Labs)                                           |
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=buumba641&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -339,6 +532,6 @@ Relevant areas include:
 
 <p align="center">
 
-**🇿🇲 Learning by building · Competing to improve · Turning theory into working systems**
+### 🇿🇲 Learning by building · Competing to improve · Turning theory into working systems
 
 </p>
